@@ -1,0 +1,111 @@
+﻿  Currency Calculator Screen.cpp
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(47,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(110,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(117,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(124,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(137,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(155,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(172,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(188,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(204,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(231,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(236,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(257,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(292,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(312,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(394,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(412,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsString.h(528,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(259,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+      C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(189,9):
+      see declaration of 'clsBankClient::stTransferRecord'
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(355,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(533,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(541,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUtility.h(64,2): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUtility.h(291,21): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUtility.h(304,21): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUser.h(233,10): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+      C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUser.h(46,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUser.h(245,14): warning C4091: 'static ': ignored on left of 'clsUser::enPermissions' when no variable is declared
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUser.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsAddNewClientScreen.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUpdateClientScreen.h(35,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsTotalBalanceScreen.h(64,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsCurrency.h(32,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsCurrency.h(71,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsCurrenciesListScreen.h(47,9): warning C4101: '_Rate': unreferenced local variable
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsCurrencyCalculatorScreen.h(105,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Currency%20Calculator%20Screen.cpp')
+  
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsShowLoginScreen.h(57,1): warning C4715: 'clsShowLoginScreen::_Login': not all control paths return a value
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsBankClient.h(487,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\clsUser.h(505,1): warning C4715: 'clsUser::save': not all control paths return a value
+  Project_43_2_ Currency Calculator Screen.vcxproj -> C:\Users\DELL\Downloads\Programming\Bank System Project\Bank System Project\Debug\Project_43_2_ Currency Calculator Screen.exe

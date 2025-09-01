@@ -1,0 +1,41 @@
+﻿  Currency Calculator Screen.cpp
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(47,1): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(110,1): warning C4267:  'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(117,1): warning C4267:  'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(124,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(137,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(155,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(172,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(188,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(204,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(231,1): warning C4267:  'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(236,23): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(257,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(292,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(312,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(394,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(412,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsString.h(528,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(260,2): warning C4240:  nonstandard extension used: access to 'clsBankClient::stTransferRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(189): message :  see declaration of 'clsBankClient::stTransferRecord'
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(355,1): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(533,1): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(541,1): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUtility.h(64,1): warning C4102:  'defualt': unreferenced label
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUtility.h(291,21): warning C4018:  '<=': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUtility.h(304,21): warning C4018:  '<=': signed/unsigned mismatch
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUser.h(234,2): warning C4240:  nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUser.h(46): message :  see declaration of 'clsUser::stLoginRegisterRecord'
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUser.h(250): warning C4091:  'static ': ignored on left of 'clsUser::enPermissions' when no variable is declared
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUser.h(370,1): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsAddNewClientScreen.h(31,65): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUpdateClientScreen.h(35,64): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsTotalBalanceScreen.h(64,76): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrency.h(32,1): warning C4267:  '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrency.h(71,44): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrenciesListScreen.h(47,9): warning C4101:  '_Rate': unreferenced local variable
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrencyCalculatorScreen.h(105,65): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrencyCalculatorScreen.h(105,65): warning C4244: D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsShowLoginScreen.h(57) : warning C4715: 'clsShowLoginScreen::_Login': not all control paths return a value
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrencyCalculatorScreen.h(105,65): warning C4244: D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsBankClient.h(487) : warning C4715: 'clsBankClient::save': not all control paths return a value
+D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsCurrencyCalculatorScreen.h(105,65): warning C4244: D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\clsUser.h(505) : warning C4715: 'clsUser::save': not all control paths return a value
+  Project_43_2_ Currency Calculator Screen.vcxproj -> D:\Abu hadhoud\abu hadhoud\Course 11\Project_43_2_ Currency Calculator  -Final\Debug\Project_43_2_ Currency Calculator Screen.exe

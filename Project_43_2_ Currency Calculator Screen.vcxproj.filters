@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Clients">
+      <UniqueIdentifier>{ec331f04-0682-47e8-81fb-855118a72089}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Users">
+      <UniqueIdentifier>{39e6becb-486d-407c-995c-f841970cf712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Currencies">
+      <UniqueIdentifier>{1807f5ed-a5ec-4ea1-bd8d-5c7fd39b8d65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Library">
+      <UniqueIdentifier>{7e4dab8a-b540-48ea-ad5e-302ed13b66ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screen And Register">
+      <UniqueIdentifier>{ecf49f76-781c-4ba8-b20b-34610d7be1a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Clients\Transaction">
+      <UniqueIdentifier>{7a84223a-39e3-4e73-a062-47155dbc4f5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Currency Calculator Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LoginRegister.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="TransferRegister.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Users.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Currencies.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Clients.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsAddNewClientScreen.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewUserScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsClientListScreen.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrenciesListScreen.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrency.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrencyCalculatorScreen.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteClientScreen.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteUserScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindClientScreen.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCurrency.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindUserScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsManageUsersScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowCurrencyExchangeScreen.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUser.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUserListScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateClientScreen.h">
+      <Filter>Header Files\Clients</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateCurrencyRateScreen.h">
+      <Filter>Header Files\Currencies</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateUserScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowTransfersLogScreen.h">
+      <Filter>Header Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtility.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>Header Files\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\Screen And Register</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Screen And Register</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowLoginRegisterScreen.h">
+      <Filter>Header Files\Screen And Register</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowLoginScreen.h">
+      <Filter>Header Files\Screen And Register</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransactionScreen.h">
+      <Filter>Header Files\Clients\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalBalanceScreen.h">
+      <Filter>Header Files\Clients\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsWithDrawScreen.h">
+      <Filter>Header Files\Clients\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDepositeScreen.h">
+      <Filter>Header Files\Clients\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTransferScreen.h">
+      <Filter>Header Files\Clients\Transaction</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
